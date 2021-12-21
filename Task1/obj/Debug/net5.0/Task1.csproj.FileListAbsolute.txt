@@ -1,0 +1,16 @@
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.csproj.AssemblyReference.cache
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.AssemblyInfoInputs.cache
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.AssemblyInfo.cs
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.csproj.CoreCompileInputs.cache
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1.deps.json
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1.runtimeconfig.json
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1.runtimeconfig.dev.json
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1.dll
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/ref/Task1.dll
+/home/ivan/not-so-sharp/Task1/bin/Debug/net5.0/Task1.pdb
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.dll
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/ref/Task1.dll
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.pdb
+/home/ivan/not-so-sharp/Task1/obj/Debug/net5.0/Task1.genruntimeconfig.cache
